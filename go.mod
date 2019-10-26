@@ -1,4 +1,4 @@
-module github.com/Lyt99/gqlregister-globalsign-mgo
+module github.com/Lyt99/gqlregister-mgov2
 
 go 1.12
 
